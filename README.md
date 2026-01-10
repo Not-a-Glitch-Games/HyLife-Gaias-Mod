@@ -26,4 +26,4 @@
 
 
 
--# This is a fan project and we are not associated with Hypixel Studios or Valve Software, all rights go to their original owners. 
+###### This is a fan project and we are not associated with Hypixel Studios or Valve Software, all rights go to their original owners. 
